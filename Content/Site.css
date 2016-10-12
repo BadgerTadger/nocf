@@ -1,0 +1,171 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+footer {
+    margin-left: 15px;
+}
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #eeeeee;
+}
+
+.main-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    border-style: groove;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* Responsive: Portrait tablets and up */
+.jumbotron {
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.container .jumbotron {
+    padding-right: 40px;
+}
+
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 10px;
+    }
+
+    .body-content {
+        padding: 0;
+    }
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.btn.btn-default {
+    color: #ffffff;
+    background-color: #9900ff;
+    background-image: linear-gradient(to bottom, #b44bfb, #9900ff);
+    border-color: #CCCCCC #CCCCCC #CCCCCC;
+}
+
+    .btn.btn-default:hover {
+        color: #ffffff;
+        background-color: #ff9900;
+        background-image: linear-gradient(to bottom, #feb549, #ff9900);
+        border-color: #CCCCCC #CCCCCC #CCCCCC;
+    }
+
+.btn.btn-fixed-width-160 {
+    width: 160px;
+}
+
+.btn.btn-fixed-width-250 {
+    width: 250px;
+}
+
+.div-btn {
+    padding-left: 0px;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+
+.nocf_heading {
+    padding-left: 30px;
+}
+
+img {
+    -webkit-box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    margin-bottom: 20px;
+}
+
+img:hover {
+    filter: none; /* IE6-9 */
+    -webkit-filter: grayscale(0); /* Google Chrome, Safari 6+ & Opera 15+ */
+}
+
+ul {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    margin-left: 20px;
+}
+
+ul li.gallery {
+    list-style: none;
+    margin-bottom: 25px;
+}
+
+ul li img {
+    cursor: pointer;
+}
+
+li {
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+.fb_div {
+    padding-top: 30px;
+    padding-right: 25px;
+    text-align: right;
+}
+
+.pad-top-20 {
+    padding-top: 20px;
+}
+
+.pad-top-40 {
+    padding-top: 40px;
+}
+
+.formerly {
+    font-size: 8pt;
+}
+
+.img-responsive {
+  margin: 0 auto;
+}
+
+.div-center {
+    text-align: center;
+}
+
+.div-right {
+    text-align: right;
+}
+
+.item{
+    background: #ffffff;    
+    text-align: center;
+    height: 600px !important;
+}
+.carousel{
+    margin-top: 20px;
+}
+.bs-example{
+	margin: 20px;
+}
+.ulNew {
+    list-style: none;
+    margin-left: -35px;
+}
+.liNew {
+    background: url("images/new.png") no-repeat 0 0;
+    padding-left: 50px;
+    padding-top: 0px;
+}
+
