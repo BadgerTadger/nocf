@@ -34,9 +34,6 @@
                 <a href="http://www.obedienceuk.net/" target="_new" class="btn btn-fixed-width-250 btn-default">ObedienceUK</a>
             </div>
             <div class="div-btn">
-                <a href="https://www.facebook.com/wizardwoodwork/" target="_new" class="btn btn-fixed-width-250 btn-default">Wizard Woodwork</a>
-            </div>
-            <div class="div-btn">
                 
             </div>
             <p>&nbsp;</p>
