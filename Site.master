@@ -66,8 +66,8 @@
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Entries">Entries</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/QualifyingCriteria">Qualifying Criteria</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Judges">Judges</a></li>
-                                    <!--<li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/ShowDay">Show Day</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/Latest2015">Latest</a></li>-->
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/ShowDay">Show Day</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Latest2016">Latest</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
@@ -78,7 +78,7 @@
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/Entries">Entries</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/QualifyingCriteria">Qualifying Criteria</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/Judges">Judges</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/ShowDay">Show Day</a></li>
+<%--                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/ShowDay">Show Day</a></li>--%>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/Latest2015">Latest</a></li>
                                 </ul>
                             </li>

@@ -38,7 +38,7 @@
             <a href="../Event2016/docs/NOCF-2016-Qualifying-Points-form.pdf" target="new">2016 qualifying points form (PDF)</a><br />
             <a href="../Event2016/docs/NOCF-2016-Qualifying-Points-form.docx" target="new">2016 qualifying points form (Word)</a>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2016/docs/2016 Schedule and Entry Form.pdf" target="new">2016 Schedule and Entry Form</a></li>
+                <li class="liNew"><a href="../Event2016/docs/NOCF Running Orders 2016.pdf" target="new">2016 Running Orders</a></li>
             </ul>
             <p>&nbsp;</p>
             <a href="../Event2015/docs/NOCF Scores 2015.pdf" target="_new">2015 Scores and Results</a><br />

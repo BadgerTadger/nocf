@@ -18,8 +18,11 @@
         <div class="col-md-8">
             <br />            <br />
             <%--<img class="img-responsive" src="images/NOCF Logo 2015.jpg" alt="NOCF Logo 2015" />--%>
-            <p class="liNew">T-Shirts are now available for sale.  Only £12 each, including postage.<br />Please contact via email to order</p>
-            <p class="liNew"><a href="docs/2016 Schedule and Entry Form.pdf" target="new">2016 Schedule and Entry Form</a>
+            <p>T-Shirts are now available for sale.  Only £12 each, including postage.<br />Please contact via email to order</p>
+            <p><a href="docs/2016 Schedule and Entry Form.pdf" target="new">2016 Schedule and Entry Form</a>
+            <ul class="ulNew">
+                <li class="liNew"><a href="../Event2016/docs/NOCF Running Orders 2016.pdf" target="new">2016 Running Orders</a></li>
+            </ul>
 <%--            <p>
                 The <a href="../Event2015/QualifyingCriteria.aspx">Qualifying Criteria</a> and <a href="../Event2015/Entries.aspx">Entries</a> pages for the 2015 event have been updated. 
             </p>
@@ -65,8 +68,8 @@
                 <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
                 <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
-                <!--<a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
-                <a href="Latest2015.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>-->
+                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
+                <a href="Latest2016.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
             </div>
         </div>
     </div>
