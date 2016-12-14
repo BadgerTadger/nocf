@@ -15,7 +15,7 @@
     </div>
     <br />    <br />
     <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-4">
             <br />            <br />
             <%--<img class="img-responsive" src="images/NOCF Logo 2015.jpg" alt="NOCF Logo 2015" />--%>
             <p>T-Shirts are now available for sale.  Only £12 each, including postage.<br />Please contact via email to order</p>
@@ -28,26 +28,26 @@
             </p>
             <p>You can also download the <a href="../Event2015/docs/NOCF 2015 qualifying info.pdf" target="new">2015 qualifying criteria</a>.</p>--%>
         </div>
-<%--        <div class="col-md-4">
+        <div class="col-md-4">
             <div class="div-btn text-center">
             <br />
             <br />
-                <a href="docs/NOCF Scores 2015.pdf" target="_new" class="btn btn-default">Scores and Results 2015</a>
+                <a href="docs/NOCF-2016-Scoresheets.pdf" target="_new" class="btn btn-default">Scoresheets 2016</a>
             </div>
             <br />
             <br />
             <br />
             <br />
-            <div class="pad-top-20">
+<%--            <div class="pad-top-20">
                 <img class="img-responsive" src="images/rosettes.jpg" alt="Rosettes" />
                 <h5><small><Center>Photo credit: Cathy Spearing, www.equinart.co.uk</Center></small></h5>
-            </div>
-        </div>--%>
+            </div>--%>
+        </div>
         <div class="col-md-4">
             <div class="pad-top-20">
             <h4>Feedback</h4>
             <p>
-                If you have any feedback on the 2015 event, please do not be afraid to share it with us, using the email address at the bottom of the page...
+                If you have any feedback on the 2016 event, please do not be afraid to share it with us, using the email address at the bottom of the page...
             </p>
             <br />
             <br />
