@@ -1,6 +1,6 @@
-﻿<%@ Page Title="2015 Pictures" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Pictures2015.aspx.cs" Inherits="Pictures2014" %>
+﻿<%@ Page Title="2016 Pictures" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Pictures2016.aspx.cs" Inherits="Event2016_Pictures2016" %>
 
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="Server">
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <script type="text/javascript">
         $(document).ready(function () {
             $('li img').on('click', function () {
@@ -20,7 +20,7 @@
     <h2><%: Title %></h2>
     <div class="row">
         <div class="col-md-12">
-            <h4>Saturday 14th November, 2015</h4>
+            <h4>Saturday 10th December, 2016</h4>
         </div>
     </div>
     <div class="row">
@@ -29,29 +29,29 @@
             <div class="container">
                 <ul class="row">
                     <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
-                        <img class="img-responsive" src="images/PreBeginners.jpg" alt="Judge &amp; Team Prebeginners" />
+                        <img class="img-responsive" src="images/Prebeginner judge.jpg" alt="Judge &amp; Team Prebeginners" />
                     </li>
                     <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
-                        <img class="img-responsive" src="images/Beginners.jpg" alt="Judge &amp; Team Beginners" />
+                        <img class="img-responsive" src="images/Beginner judge.jpg" alt="Judge &amp; Team Beginners" />
                     </li>
                     <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
-                        <img class="img-responsive" src="images/NovicePart1.jpg" alt="Judge &amp; Team Novice Pt 1" />
+                        <img class="img-responsive" src="images/Novice part 1 judge.jpg" alt="Judge &amp; Team Novice Pt 1" />
                     </li>
                     <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
-                        <img class="img-responsive" src="images/NovicePart2.jpg" alt="Judge &amp; Team Novice Pt 2" />
+                        <img class="img-responsive" src="images/Novice part 2 judge.jpg" alt="Judge &amp; Team Novice Pt 2" />
                     </li>
                     <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
-                        <img class="img-responsive" src="images/judge_a.jpg" alt="Judge &amp; Team A" />
+                        <img class="img-responsive" src="images/Class A judge.jpg" alt="Judge &amp; Team A" />
                     </li>
                     <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
-                        <img class="img-responsive" src="images/judge_b.jpg" alt="Judge &amp; Team B" />
+                        <img class="img-responsive" src="images/Class B judge.jpg" alt="Judge &amp; Team B" />
                     </li>
                     <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
-                        <img class="img-responsive" src="images/judge_c.jpg" alt="Judge &amp; Team C" />
+                        <img class="img-responsive" src="images/Class C judge.jpg" alt="Judge &amp; Team C" />
                     </li>
                 </ul>
             </div>
-            <h4>The Trophies and Rosettes</h4>
+<%--            <h4>The Trophies and Rosettes</h4>
             <div class="container">
                 <ul class="row">
                     <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
@@ -65,7 +65,7 @@
                         <img class="img-responsive" src="images/FirstPlace.jpg" alt="First Place Trophy &amp; Rosette" />
                     </li>
                 </ul>
-            </div>
+            </div>--%>
         </div>
         <div class="col-md-3 pad-top-40">
             <p>
@@ -73,15 +73,15 @@
                     please visit our official photographers' pages:</small>
             </p>
             <div class="div-btn">
-                <a href="https://www.flickr.com/photos/obedienceuk/sets/72157658913681414" target="_new" class="btn btn-fixed-width-180 btn-default">Les Perry's photos</a>
+                <a href="https://www.flickr.com/photos/obedienceuk/albums/72157677757162725" target="_new" class="btn btn-fixed-width-180 btn-default">Les Perry's photos</a>
             </div>
-            <div class="div-btn">
+<%--            <div class="div-btn">
                 <a href="https://www.flickr.com/photos/obedienceuk/sets/72157661258556652" target="_new" class="btn btn-fixed-width-180 btn-default">Mick Knowle's photos</a>
             </div>
             <div class="div-btn">
                 <a href="https://www.flickr.com/photos/obedienceuk/sets/72157660655590679" target="_new" class="btn btn-fixed-width-180 btn-default">Cathy Spearing's photos</a>
             </div>
-<%--            <div class="div-btn">
+            <div class="div-btn">
                 <a href="https://www.facebook.com/Kninephotos" target="_new" class="btn btn-fixed-width-160 btn-default">Knine photos</a>
             </div>--%>
         </div>
@@ -89,7 +89,18 @@
     <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
-                <a href="ShowReport2015.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
+                <a href="ShowReport2016.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="div-btn">
+                <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
+                <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
+                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
+                <!--<a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>-->
+                <a href="Latest2016.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
             </div>
         </div>
     </div>

@@ -1,10 +1,10 @@
-﻿<%@ Page Title="Show Day" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="ShowDay.aspx.cs" Inherits="Event2016_ShowDay" %>
+﻿<%@ Page Title="Show Day" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="ShowDay.aspx.cs" Inherits="Event2017_ShowDay" %>
 
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" Runat="Server">
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <h2><%: Title %></h2>
     <div class="row">
         <div class="col-md-12">
-            <h4>Saturday 10th December, 2016</h4>
+            <h4>Saturday 9th December 2017</h4>
         </div>
     </div>
     <div class="row">
@@ -48,15 +48,15 @@
             </p>
         </div>
     </div>
-<%--    <div class="row">
+    <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
                 <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
-                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
-                <a href="Latest2016.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
+                <!--<a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>-->
+                <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
             </div>
         </div>
-    </div>--%>
+    </div>
 </asp:Content>
 

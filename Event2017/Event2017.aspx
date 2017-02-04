@@ -1,81 +1,72 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Event2017.aspx.cs" Inherits="Event2017_Event2017" %>
+﻿<%@ Page Title="2017 Event" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Event2017.aspx.cs" Inherits="Event2017_Event2017" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <h2><%: Title %></h2>
     <div class="row">
         <div class="col-md-12">
-            <h4>Saturday 10th December, 2016</h4>
+            <h4>Saturday 9th December 2017</h4>
         </div>
     </div>
     <div class="row">
         <div class="col-md-12">
-            <div>
-                <h4>Time Period for Entries</h4>
-                <ul>
-                    <li>Online entries open 17th October 2016</li>
-                    <li>Entries close 12th  November  2016 via WYD, postal entries latest postmark 6th November 2016</li>
-                </ul>
+                        <br />
+            <img class="img-responsive" src="images/logo.jpg" alt="Logo" />
+        </div>
+    </div>
+    <br />    <br />
+    <div class="row">
+        <div class="col-md-4">
+            <br />            <br />
+            <%--<img class="img-responsive" src="images/NOCF Logo 2015.jpg" alt="NOCF Logo 2015" />--%>
+            <p>T-Shirts are now available for sale.  Only £12 each, including postage.<br />Please contact via email to order</p>
+<%--            <a href="../Event2016/docs/NOCF Running Orders 2016.pdf" target="new">2016 Running Orders</a><br />
+            <p>
+                The <a href="../Event2015/QualifyingCriteria.aspx">Qualifying Criteria</a> and <a href="../Event2015/Entries.aspx">Entries</a> pages for the 2015 event have been updated. 
+            </p>
+            <p>You can also download the <a href="../Event2015/docs/NOCF 2015 qualifying info.pdf" target="new">2015 qualifying criteria</a>.</p>--%>
+        </div>
+        <div class="col-md-4">
+            <div class="div-btn text-center">
+            <br />
+            <br />
+<!--                <a href="docs/NOCF-2016-Scoresheets.pdf" target="_new" class="btn btn-default">Scoresheets 2016</a>-->
             </div>
-            <div>
-                <p>
-                    <br /><strong>PLEASE REMEMBER THAT EACH DOG MAY ONLY BE ENTERED IN ONE CLASS AT THIS EVENT.&nbsp;&nbsp;</strong>
-                    In the event that a dog accumulates sufficient points in 2 or more classes during the qualifying period, 
-                    the dog should be entered in the HIGHEST class for which it is qualified.
-                </p>
-                <p>
-                    Handlers who have been fortunate enough to win a Championship Class ‘C’ in 2016 will not be eligible to compete in the National Obedience Class Finals at any level.
-                </p>
-                <p>
-                    Please ensure that your dog has the correct qualifiers before entering to avoid disappointment.  
-                    A form will need to submitted for each entry, detailing your dog’s qualifying points, and the organisers cannot accept any 
-                    responsibility for incorrect entries.
-                </p>
-                <p>
-                    <strong>Start recording your dogs' qualifying points NOW! Download a record form                 
-                    in either <a href="docs/NOCF-2016-Qualifying-Points-form.docx">Word</a> or <a href="docs/NOCF-2016-Qualifying-Points-form.pdf" target="new">PDF</a> format.
-                    </strong>
-                </p>
-                <p>
-                    All entries will be verified and any incorrect entries will be rejected.
-                </p>
-            </div>
-            <div>
-                <h4>Class Limits</h4>
-                <ul>
-                    <li>Classes will be capped at the following limits:
-                        <ul>
-                            <li>PreBeginner = 50</li>
-                            <li>Beginner = 50</li>
-                            <li>Novice = 100</li>
-                            <li>Class A = 50</li>
-                            <li>Class B = 45</li>
-                            <li>Class C = 40</li>
-                        </ul>
-                    </li>
-                    <li>Should entries in <strong>Novice</strong> exceed 60, it will be necessary to run 2 parts of this class.</li>
-                    <li>No other classes will be split.</li>
-                    <li>Once the limit for a class has been reached, the class will close.</li>
-                </ul>
-            </div>
-            <div>
-                <h4>Notification and Documentation</h4>
-                <p>
-                    As soon as possible after closing date, verified competitors will be notified by email by receiving confirmation of their class, 
-                    ring number, full class running order, a full ring plan of all classes and any other important information.  
-                </p>
-                <p>
-                    <a href="docs/2016 Schedule and Entry Form.pdf" target="new">2016 Schedule and Entry Form</a>
-                </p>
+            <br />
+            <br />
+            <br />
+            <br />
+<%--            <div class="pad-top-20">
+                <img class="img-responsive" src="images/rosettes.jpg" alt="Rosettes" />
+                <h5><small><Center>Photo credit: Cathy Spearing, www.equinart.co.uk</Center></small></h5>
+            </div>--%>
+        </div>
+        <div class="col-md-4">
+            <div class="pad-top-20">
+            <h4>Feedback</h4>
+            <p>
+                If you have any feedback on the 2017 event, please do not be afraid to share it with us, using the email address at the bottom of the page...
+            </p>
+            <br />
+            <br />
             </div>
         </div>
     </div>
+<%--    <div class="row">
+        <div class="col-md-12">
+            <div class="div-btn">
+                <a href="ShowReport2016.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
+                <a href="Pictures2016.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>
+            </div>
+        </div>
+    </div>--%>
     <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
+                <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
-                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
-                <!--<a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>-->
-                <a href="Latest2016.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
+                <!--<a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>-->
+                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
+                <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
             </div>
         </div>
     </div>

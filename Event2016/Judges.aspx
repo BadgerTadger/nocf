@@ -36,6 +36,14 @@
     <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
+                <a href="ShowReport2016.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
+                <a href="Pictures2016.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="div-btn">
                 <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
                 <!--<a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>-->
