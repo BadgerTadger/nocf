@@ -19,7 +19,7 @@
         <div class="col-md-3">
             <h4>Latest</h4>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2017/Event2017.aspx">2017 Event page added</a></li>
+                <li class="liNew"><a href="../Event2017/Event2017.aspx">2017 pages added</a></li>
             </ul>
             <p>&nbsp;</p>
                 <a href="../Event2016/Event2016.aspx">T Shirts for sale - £12 each</a><br />

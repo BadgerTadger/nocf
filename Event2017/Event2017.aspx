@@ -44,7 +44,7 @@
             <div class="pad-top-20">
             <h4>Feedback</h4>
             <p>
-                If you have any feedback on the 2017 event, please do not be afraid to share it with us, using the email address at the bottom of the page...
+                If you have any feedback on the 2016 event, please do not be afraid to share it with us, using the email address at the bottom of the page...
             </p>
             <br />
             <br />
