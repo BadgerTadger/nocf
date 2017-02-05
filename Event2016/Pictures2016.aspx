@@ -51,6 +51,35 @@
                     </li>
                 </ul>
             </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h4>Winners from each class</h4>
+                </div>
+            </div>
+            <div class="container">
+                <ul class="row">
+                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Prebeginner winner.jpg" alt="Prebeginner Class Winner" />
+                    </li>
+                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Beginner winner.jpg" alt="Beginner Class Winner" />
+                    </li>
+                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Novice winner.jpg" alt="Novice Class Winner" />
+                    </li>
+                </ul>
+                <ul class="row">
+                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Class A winner.jpg" alt="Class A Winner" />
+                    </li>
+                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Class B winner.jpg" alt="Class B Winner" />
+                    </li>
+                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Class C winner.jpg" alt="Class C Winner" />
+                    </li>
+                </ul>
+            </div>
 <%--            <h4>The Trophies and Rosettes</h4>
             <div class="container">
                 <ul class="row">
