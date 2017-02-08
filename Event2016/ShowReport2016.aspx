@@ -26,9 +26,6 @@
                 <a href="docs/2015 Beginners Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2015 Beginners Show Report</a>
             </div>
             <div class="div-btn">
-                <a href="docs/2015 Novice Part1 Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2015 Novice Part 1 Show Report</a>
-            </div>
-            <div class="div-btn">
                 <a href="docs/2015 Novice Part2 Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2015 Novice Part 2 Show Report</a>
             </div>
             <div class="div-btn">
@@ -37,6 +34,9 @@
             <div class="div-btn"></div>
         </div>--%>
         <div class="col-md-4">
+            <div class="div-btn">
+                <a href="docs/2016 Novice Part 1 Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2016 Novice Part 1 Show Report</a>
+            </div>
             <div class="div-btn">
                 <a href="docs/2016 A Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2016 A Show Report</a>
             </div>
