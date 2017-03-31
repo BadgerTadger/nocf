@@ -32,7 +32,7 @@
                 </p>
                 <p>
                     <strong>Start recording your dogs' qualifying points NOW! Download a record form                 
-                    in either <a href="docs/NOCF-2017-Qualifying-Points-form.docx">Word</a> or <a href="docs/NOCF-2017-Qualifying-Points-form.pdf" target="new">PDF</a> format.
+                    in either <a href="docs/NOCF-2017-Qualifying-Info-and-Form.docx">Word</a> or <a href="docs/NOCF-2017-Qualifying-Info-and-Form.pdf" target="new">PDF</a> format.
                     </strong>
                 </p>
                 <p>
@@ -44,8 +44,8 @@
                 <ul>
                     <li>Classes will be capped at the following limits:
                         <ul>
-                            <li>PreBeginner = 50</li>
-                            <li>Beginner = 50</li>
+                            <li>PreBeginner = 40</li>
+                            <li>Beginner = 40</li>
                             <li>Novice = 100</li>
                             <li>Class A = 50</li>
                             <li>Class B = 45</li>

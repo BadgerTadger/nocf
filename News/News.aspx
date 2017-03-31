@@ -19,7 +19,7 @@
         <div class="col-md-3">
             <h4>Latest</h4>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2017/Event2017.aspx">2017 pages added</a></li>
+                <li class="liNew"><a href="../Event2017/Latest2017.aspx">2017 pages updated</a></li>
             </ul>
             <p>&nbsp;</p>
                 <a href="../Event2016/Event2016.aspx">T Shirts for sale - £12 each</a><br />
@@ -34,16 +34,10 @@
         <div class="col-md-4">
             <h4>Downloads</h4>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2017/docs/NOCF-2017-Qualifying-Info.pdf" target="new">2017 qualifying criteria (PDF)</a></li>
+                <li class="liNew"><a href="../Event2017/docs/NOCF-2017-Qualifying-Info-and-Form.pdf" target="new">2017 qualifying information and form (PDF)</a></li>
             </ul>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2017/docs/NOCF-2017-Qualifying-Info.docx" target="new">2017 qualifying criteria (Word)</a></li>
-            </ul>
-            <ul class="ulNew">
-                <li class="liNew"><a href="../Event2017/docs/NOCF-2017-Qualifying-Points-form.pdf" target="new">2017 qualifying points form (PDF)</a></li>
-            </ul>
-            <ul class="ulNew">
-                <li class="liNew"><a href="../Event2017/docs/NOCF-2017-Qualifying-Points-form.docx" target="new">2017 qualifying points form (Word)</a></li>
+                <li class="liNew"><a href="../Event2017/docs/NOCF-2017-Qualifying-Info-and-Form.docx" target="new">2017 qualifying information and form (Word)</a></li>
             </ul>
             <p>&nbsp;</p>
             <ul class="ulNew">

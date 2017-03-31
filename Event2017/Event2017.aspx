@@ -15,30 +15,28 @@
     </div>
     <br />    <br />
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-8">
             <br />            <br />
             <%--<img class="img-responsive" src="images/NOCF Logo 2015.jpg" alt="NOCF Logo 2015" />--%>
+            <p>
+                <strong>ENTRY FEES:</strong><br />
+                £18.00 FOR FIRST DOG<br />
+                £15.00 FOR SUBSEQUENT DOGS IN SAME OWNERSHIP
+            </p>
+            <p>
+                Entry fee includes one admission pass for each handler, plus ONE additional spectator's pass
+            </p>
+            <p>
+                SPECTATORS: £5.00 EACH (MAY BE PAID ON THE DOOR)
+            </p>
+            <br />
+            <br />
             <p>T-Shirts are now available for sale.  Only £12 each, including postage.<br />Please contact via email to order</p>
 <%--            <a href="../Event2016/docs/NOCF Running Orders 2016.pdf" target="new">2016 Running Orders</a><br />
             <p>
                 The <a href="../Event2015/QualifyingCriteria.aspx">Qualifying Criteria</a> and <a href="../Event2015/Entries.aspx">Entries</a> pages for the 2015 event have been updated. 
             </p>
             <p>You can also download the <a href="../Event2015/docs/NOCF 2015 qualifying info.pdf" target="new">2015 qualifying criteria</a>.</p>--%>
-        </div>
-        <div class="col-md-4">
-            <div class="div-btn text-center">
-            <br />
-            <br />
-<!--                <a href="docs/NOCF-2016-Scoresheets.pdf" target="_new" class="btn btn-default">Scoresheets 2016</a>-->
-            </div>
-            <br />
-            <br />
-            <br />
-            <br />
-<%--            <div class="pad-top-20">
-                <img class="img-responsive" src="images/rosettes.jpg" alt="Rosettes" />
-                <h5><small><Center>Photo credit: Cathy Spearing, www.equinart.co.uk</Center></small></h5>
-            </div>--%>
         </div>
         <div class="col-md-4">
             <div class="pad-top-20">
