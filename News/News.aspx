@@ -41,7 +41,7 @@
             </ul>
             <p>&nbsp;</p>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2016/docs/NOCF Scores 2016.pdf" target="_new">2016 Scores and Results</a></li>
+                <li class="liNew"><a href="../Event2016/docs/NOCF-2016-Scoresheets.pdf" target="_new">2016 Scores and Results</a></li>
             </ul>
             <a href="../Event2016/docs/NOCF Running Orders 2016.pdf" target="new">2016 Running Orders</a><br />
             <a href="../Event2015/docs/NOCF Scores 2015.pdf" target="_new">2015 Scores and Results</a><br />
