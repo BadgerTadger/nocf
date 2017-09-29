@@ -65,7 +65,7 @@
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/Pictures2015">2015 Pictures</a></li>-->
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Entries">Entries</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/QualifyingCriteria">Qualifying Criteria</a></li>
-                                    <!--<li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Judges">Judges</a></li>-->
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Judges">Judges</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/ShowDay">Show Day</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Latest2017">Latest</a></li>
                                 </ul>

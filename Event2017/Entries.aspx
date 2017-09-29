@@ -12,13 +12,19 @@
             <div>
                 <h4>Time Period for Entries</h4>
                 <ul>
-                    <li>Online entries open 1st October 2017</li>
+                    <li>Entries open 1st October 2017</li>
                     <li>Entries close 31st October 2017 via WYD and postal entries latest postmark</li>
                 </ul>
             </div>
             <div>
                 <p>
-                    <br /><strong>PLEASE REMEMBER THAT EACH DOG MAY ONLY BE ENTERED IN ONE CLASS AT THIS EVENT.&nbsp;&nbsp;</strong>
+                    <br />Please note that all entries via either method have equal priority there is no preference for either method of entry 
+                    and we will be liaising closely with WYD regarding class numbers to ensure that the class closes once the number of entries is reached.
+                </p>
+            </div>
+            <div>
+                <p>
+                    <strong>PLEASE REMEMBER THAT EACH DOG MAY ONLY BE ENTERED IN ONE CLASS AT THIS EVENT.&nbsp;&nbsp;</strong>
                     In the event that a dog accumulates sufficient points in 2 or more classes during the qualifying period, 
                     the dog should be entered in the HIGHEST class for which it is qualified.
                 </p>
@@ -44,16 +50,16 @@
                 <ul>
                     <li>Classes will be capped at the following limits:
                         <ul>
-                            <li>PreBeginner = 40</li>
-                            <li>Beginner = 40</li>
-                            <li>Novice = 100</li>
+                            <li>PreBeginner = 60</li>
+                            <li>Beginner = 60</li>
+                            <li>Novice = 60</li>
                             <li>Class A = 50</li>
                             <li>Class B = 45</li>
                             <li>Class C = 40</li>
                         </ul>
                     </li>
-                    <li>Should entries in <strong>Novice</strong> exceed 60, it will be necessary to run 2 parts of this class.</li>
-                    <li>No other classes will be split.</li>
+<%--                    <li>Should entries in <strong>Novice</strong> exceed 60, it will be necessary to run 2 parts of this class.</li>
+                    <li>No other classes will be split.</li>--%>
                     <li>Once the limit for a class has been reached, the class will close.</li>
                 </ul>
             </div>
@@ -63,9 +69,9 @@
                     As soon as possible after closing date, verified competitors will be notified by email by receiving confirmation of their class, 
                     ring number, full class running order, a full ring plan of all classes and any other important information.  
                 </p>
-<%--                <p>
-                    <a href="docs/2016 Schedule and Entry Form.pdf" target="new">2016 Schedule and Entry Form</a>
-                </p>--%>
+                <p>
+                    <a href="docs/NOCF 2017 Schedule and Entry Form.pdf" target="new">2017 Schedule and Entry Form</a>
+                </p>
             </div>
         </div>
     </div>
@@ -81,7 +87,7 @@
         <div class="col-md-12">
             <div class="div-btn">
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
-                <!--<a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>-->
+                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
                 <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
                 <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
             </div>

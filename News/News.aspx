@@ -34,6 +34,9 @@
         <div class="col-md-4">
             <h4>Downloads</h4>
             <ul class="ulNew">
+                <li class="liNew"><a href="../Event2017/docs/NOCF 2017 Schedule and Entry Form.pdf" target="new">2017 Schedule and Entry Form (PDF)</a></li>
+            </ul>
+            <ul class="ulNew">
                 <li class="liNew"><a href="../Event2017/docs/NOCF-2017-Qualifying-Info-and-Form.pdf" target="new">2017 qualifying information and form (PDF)</a></li>
             </ul>
             <ul class="ulNew">
