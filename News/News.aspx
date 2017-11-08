@@ -23,7 +23,6 @@
             </ul>
             <p>&nbsp;</p>
                 <a href="../Event2016/Event2016.aspx">T Shirts for sale - £12 each</a><br />
-                <a href="../Event2016/Event2016.aspx">2016 Event page updated</a>
             <p>&nbsp;</p>
             <!--<a href="../Event2015/Event2015.aspx">Scores are now available from the 2015 event</a><br />
             <a href="../Event2015/docs/NOCF Running Orders 2015.pdf" target="new">2015 Running Orders</a><br />
@@ -34,18 +33,14 @@
         <div class="col-md-4">
             <h4>Downloads</h4>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2017/docs/NOCF 2017 Schedule and Entry Form.pdf" target="new">2017 Schedule and Entry Form (PDF)</a></li>
+                <li class="liNew"><a href="../Event2017/docs/NOCF Running Orders 2017.pdf" target="new">2017 Running Orders</a></li>
             </ul>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2017/docs/NOCF-2017-Qualifying-Info-and-Form.pdf" target="new">2017 qualifying information and form (PDF)</a></li>
+                <li class="liNew"><a href="../Event2017/docs/NOCF_Ring_Plan_2017.jpg" target="new">2017 Ring Plan</a></li>
             </ul>
-            <ul class="ulNew">
-                <li class="liNew"><a href="../Event2017/docs/NOCF-2017-Qualifying-Info-and-Form.docx" target="new">2017 qualifying information and form (Word)</a></li>
-            </ul>
+            <a href="../Event2017/docs/NOCF 2017 Schedule and Entry Form.pdf" target="new">2017 Schedule and Entry Form (PDF)</a>
             <p>&nbsp;</p>
-            <ul class="ulNew">
-                <li class="liNew"><a href="../Event2016/docs/NOCF-2016-Scoresheets.pdf" target="_new">2016 Scores and Results</a></li>
-            </ul>
+            <a href="../Event2016/docs/NOCF-2016-Scoresheets.pdf" target="_new">2016 Scores and Results</a><br />
             <a href="../Event2016/docs/NOCF Running Orders 2016.pdf" target="new">2016 Running Orders</a><br />
             <a href="../Event2015/docs/NOCF Scores 2015.pdf" target="_new">2015 Scores and Results</a><br />
             <a href="../Event2015/docs/NOCF Running Orders 2015.pdf" target="new">2015 Running Orders</a><br />

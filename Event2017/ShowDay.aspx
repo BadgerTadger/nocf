@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-6">
             <p>
-                Judging will commence in all classes at 9:00 a.m. and there will be a full running order, including provision for lunch and breaks, 
+                judging in PreBeginners and Beginners starts at 10:00 a.m. Judging in all other classes starts at 9:00 a.m. and there will be a full running order, including provision for lunch and breaks, 
                 which will be set in advance to assist handlers and spectators to plan their day.
             </p>
             <p>
