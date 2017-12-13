@@ -61,8 +61,8 @@
                             <li class="dropdown">
                                 <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2017/Event2017">2017 Event</a>
                                 <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
-                                    <!--<li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/ShowReport2015">2015 Show Reports</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/Pictures2015">2015 Pictures</a></li>-->
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/ShowReport2017">2017 Show Reports</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Pictures2017">2017 Pictures</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Entries">Entries</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/QualifyingCriteria">Qualifying Criteria</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Judges">Judges</a></li>

@@ -18,7 +18,7 @@
         <div class="col-md-8">
             <br />            <br />
             <%--<img class="img-responsive" src="images/NOCF Logo 2015.jpg" alt="NOCF Logo 2015" />--%>
-            <p>
+<%--            <p>
                 <strong>ENTRY FEES:</strong><br />
                 £18.00 FOR FIRST DOG<br />
                 £15.00 FOR SUBSEQUENT DOGS IN SAME OWNERSHIP
@@ -30,7 +30,7 @@
                 SPECTATORS: £5.00 EACH (MAY BE PAID ON THE DOOR)
             </p>
             <br />
-            <br />
+            <br />--%>
             <p>T-Shirts are now available for sale.  Only £12 each, including postage.<br />Please contact via email to order</p>
 <%--            <a href="../Event2016/docs/NOCF Running Orders 2016.pdf" target="new">2016 Running Orders</a><br />
             <p>
@@ -42,29 +42,30 @@
             <div class="pad-top-20">
             <h4>Feedback</h4>
             <p>
-                If you have any feedback on the 2016 event, please do not be afraid to share it with us, using the email address at the bottom of the page...
+                If you have any feedback on the 2017 event, please do not be afraid to share it with us, using the email address at the bottom of the page...
             </p>
             <br />
             <br />
             </div>
         </div>
     </div>
-<%--    <div class="row">
+    <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
-                <a href="ShowReport2016.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
-                <a href="Pictures2016.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>
+                <a href="docs/ScoreSheets2017.pdf" target="_blank" class="btn btn-fixed-width-160 btn-default">Scoresheets</a>
+                <a href="ShowReport2017.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
+                <a href="Pictures2017.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>
             </div>
         </div>
-    </div>--%>
+    </div>
     <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
                 <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
                 <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
-                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
-                <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
+<%--                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
+                <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>--%>
             </div>
         </div>
     </div>

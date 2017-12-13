@@ -11,7 +11,7 @@
             </div>
             <div>
                 <h4>Rhia Mulrenan</h4>
-                <p>Currently works open class 'C', and judges in obedience.  Has experience in running shows, including Chief Steward duties; and producing running orders, catalogues etc.  Has also dabbled in Heelwork to Music.</p>
+                <p>Has worked up to open class 'C', and judges in obedience.  Has experience in running shows, including Chief Steward duties; and producing running orders, catalogues etc.  Has also dabbled in Heelwork to Music.</p>
                 <p>&nbsp;</p>
             </div>
             <div>
@@ -24,14 +24,24 @@
                 <p>Currently works class 'B', and stewards in obedience.</p>
                 <p>&nbsp;</p>
             </div>
+        </div>
+        <div class="col-md-4">
+            <div class="text-center">
+                <img class="img-responsive" src="images/Team.jpg" alt="Team in 2014" />
+            </div>
+            <div>
+                <p>&nbsp;</p>
+            </div>
+            <div class="text-center">
+                <img class="img-responsive" src="images/Team2017.jpg" alt="Team in 2017" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
             <div class="div-btn">
                 <a href="Concept.aspx" class="btn btn-fixed-width-160 btn-default">The Idea...</a>
                 <a href="History.aspx" class="btn btn-fixed-width-160 btn-default">Our History</a>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <div class="text-center">
-                <img class="img-responsive" src="images/Team.jpg" alt="Team" />
             </div>
         </div>
     </div>
