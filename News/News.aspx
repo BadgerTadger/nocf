@@ -21,6 +21,9 @@
             <ul class="ulNew">
                 <li class="liNew"><a href="../Event2017/Event2017.aspx">2017 pages updated</a></li>
             </ul>
+            <ul class="ulNew">
+                <li class="liNew"><a href="../Event2018/Event2018.aspx" >2018 Date Announced</a></li>
+            </ul>
             <p>&nbsp;</p>
                 <a href="../Event2017/Event2017.aspx">T Shirts for sale - £12 each</a><br />
             <p>&nbsp;</p>

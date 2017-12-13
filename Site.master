@@ -59,6 +59,18 @@
                             </li>
                             <li><a runat="server" href="~/News/News">News</a></li>
                             <li class="dropdown">
+                                <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2018/Event2018">2018 Event</a>
+<%--                                <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/ShowReport2018">2018 Show Reports</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Pictures2018">2018 Pictures</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Entries">Entries</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/QualifyingCriteria">Qualifying Criteria</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Judges">Judges</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/ShowDay">Show Day</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Latest2018">Latest</a></li>
+                                </ul>--%>
+                            </li>
+                            <li class="dropdown">
                                 <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2017/Event2017">2017 Event</a>
                                 <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/ShowReport2017">2017 Show Reports</a></li>
