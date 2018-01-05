@@ -43,10 +43,10 @@
             <div class="div-btn">
                 <a href="docs/2017 A Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 A Show Report</a>
             </div>
-            <%--<div class="div-btn">
+            <div class="div-btn">
                 <a href="docs/2017 B Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 B Show Report</a>
             </div>
-            <div class="div-btn">
+            <%--<div class="div-btn">
                 <a href="docs/2014 B Pt 2 Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2014 B Pt 2 Show Report</a>
             </div>--%>
             <div class="div-btn">
