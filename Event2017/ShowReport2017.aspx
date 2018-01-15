@@ -18,37 +18,22 @@
         </div>
     </div>
     <div class="row">
-<%--        <div class="col-md-4">
-            <div class="div-btn">
-                <a href="docs/2017 Beginners Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 Beginners Show Report</a>
-            </div>
-            <div class="div-btn">
-                <a href="docs/2015 Novice Part2 Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2015 Novice Part 2 Show Report</a>
-            </div>
-            <div class="div-btn">
-                <a href="docs/2015 Novice Run-off Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2015 Novice Run-off Show Report</a>
-            </div>
-            <div class="div-btn"></div>
-        </div>--%>
         <div class="col-md-4">
             <div class="div-btn">
                 <a href="docs/PreBeginner show report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 PreBeginners Show Report</a>
             </div>
-<%--            <div class="div-btn">
-                <a href="docs/2017 Beginners Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 Beginners Show Report</a>
+            <div class="div-btn">
+                <a href="docs/2017 Beginner Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 Beginners Show Report</a>
             </div>
             <div class="div-btn">
-                <a href="docs/2017 Novice Part 1 Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 Novice Part 1 Show Report</a>
-            </div>--%>
+                <a href="docs/2017 Novice Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 Novice Show Report</a>
+            </div>
             <div class="div-btn">
                 <a href="docs/2017 A Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 A Show Report</a>
             </div>
             <div class="div-btn">
                 <a href="docs/2017 B Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 B Show Report</a>
             </div>
-            <%--<div class="div-btn">
-                <a href="docs/2014 B Pt 2 Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2014 B Pt 2 Show Report</a>
-            </div>--%>
             <div class="div-btn">
                 <a href="docs/2017 C Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 C Show Report</a>
             </div>
