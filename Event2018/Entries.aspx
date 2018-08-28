@@ -1,10 +1,10 @@
-﻿<%@ Page Title="Entries" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Entries.aspx.cs" Inherits="Event2017_Entries" %>
+﻿<%@ Page Title="Entries" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Entries.aspx.cs" Inherits="Event2018_Entries" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <h2><%: Title %></h2>
     <div class="row">
         <div class="col-md-12">
-            <h4>Saturday 9th December 2017</h4>
+            <h4>Saturday 27th October 2018</h4>
         </div>
     </div>
     <div class="row">
@@ -12,8 +12,8 @@
             <div>
                 <h4>Time Period for Entries</h4>
                 <ul>
-                    <li>Entries open 1st October 2017</li>
-                    <li>Entries close 31st October 2017 via WYD and postal entries latest postmark</li>
+                    <li>Entries open 15th September 2018</li>
+                    <li>Entries close 1st October 2018 via WYD and postal entries latest postmark</li>
                 </ul>
             </div>
             <div>
@@ -29,7 +29,7 @@
                     the dog should be entered in the HIGHEST class for which it is qualified.
                 </p>
                 <p>
-                    Handlers who have been fortunate enough to win a Championship Class ‘C’ in 2017 will not be eligible to compete in the National Obedience Class Finals at any level.
+                    Handlers who have been fortunate enough to win a Championship Class ‘C’ in 2018 will not be eligible to compete in the National Obedience Class Finals at any level.
                 </p>
                 <p>
                     Please ensure that your dog has the correct qualifiers before entering to avoid disappointment.  
@@ -38,7 +38,7 @@
                 </p>
                 <p>
                     <strong>Start recording your dogs' qualifying points NOW! Download a record form                 
-                    in either <a href="docs/NOCF-2017-Qualifying-Info-and-Form.docx">Word</a> or <a href="docs/NOCF-2017-Qualifying-Info-and-Form.pdf" target="new">PDF</a> format.
+                    in either <a href="docs/NOCF-2018-Qualifying-Info-and-Form.docx">Word</a> or <a href="docs/NOCF-2018-Qualifying-Info-and-Form.pdf" target="new">PDF</a> format.
                     </strong>
                 </p>
                 <p>
@@ -50,9 +50,9 @@
                 <ul>
                     <li>Classes will be capped at the following limits:
                         <ul>
-                            <li>PreBeginner = 60</li>
-                            <li>Beginner = 60</li>
-                            <li>Novice = 60</li>
+                            <li>PreBeginner = 50</li>
+                            <li>Beginner = 50</li>
+                            <li>Novice = 100</li>
                             <li>Class A = 50</li>
                             <li>Class B = 45</li>
                             <li>Class C = 40</li>
@@ -70,7 +70,7 @@
                     ring number, full class running order, a full ring plan of all classes and any other important information.  
                 </p>
                 <p>
-                    <a href="docs/NOCF 2017 Schedule and Entry Form.pdf" target="new">2017 Schedule and Entry Form</a>
+                    <a href="docs/SCHEDULE OF NATIONAL OBEDIENCE CLASS FINALS 2018.pdf" target="new">2018 Schedule and Entry Form</a>
                 </p>
             </div>
         </div>
@@ -87,11 +87,10 @@
         <div class="col-md-12">
             <div class="div-btn">
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
-                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
+<%--                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
                 <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
-                <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
+                <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>--%>
             </div>
         </div>
     </div>
 </asp:Content>
-

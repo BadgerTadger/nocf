@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Event2018.aspx.cs" Inherits="Event2018_Event2018" %>
+﻿<%@ Page Title="2018 Event" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Event2018.aspx.cs" Inherits="Event2018_Event2018" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <h2><%: Title %></h2>
@@ -18,7 +18,7 @@
         </div>
     </div>
 
-<%--    <div class="row">
+    <div class="row">
         <div class="col-md-12">
                         <br />
             <img class="img-responsive" src="images/logo.jpg" alt="Logo" />
@@ -28,8 +28,7 @@
     <div class="row">
         <div class="col-md-8">
             <br />            <br />
-            <%--<img class="img-responsive" src="images/NOCF Logo 2015.jpg" alt="NOCF Logo 2015" />--%>
-<%--            <p>
+            <p>
                 <strong>ENTRY FEES:</strong><br />
                 £18.00 FOR FIRST DOG<br />
                 £15.00 FOR SUBSEQUENT DOGS IN SAME OWNERSHIP
@@ -43,11 +42,11 @@
             <br />
             <br />
             <p>T-Shirts are now available for sale.  Only £12 each, including postage.<br />Please contact via email to order</p>
-           <a href="../Event2016/docs/NOCF Running Orders 2016.pdf" target="new">2016 Running Orders</a><br />
+<%--            <a href="../Event2016/docs/NOCF Running Orders 2016.pdf" target="new">2016 Running Orders</a><br />
             <p>
                 The <a href="../Event2015/QualifyingCriteria.aspx">Qualifying Criteria</a> and <a href="../Event2015/Entries.aspx">Entries</a> pages for the 2015 event have been updated. 
-            </p>
-            <p>You can also download the <a href="../Event2015/docs/NOCF 2015 qualifying info.pdf" target="new">2015 qualifying criteria</a>.</p>
+            </p>--%>
+            <p>You can now download the <a href="../Event2018/docs/NOCF-2018-Qualifying-Info-and-Form.pdf" target="new">2018 qualifying criteria</a>.</p>
         </div>
         <div class="col-md-4">
             <div class="pad-top-20">
@@ -59,7 +58,7 @@
             <br />
             </div>
         </div>
-    </div>--%>
+    </div>
 <%--    <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
@@ -68,17 +67,17 @@
                 <a href="Pictures2017.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>
             </div>
         </div>
-    </div>
+    </div>--%>
     <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
                 <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
-                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
-<%--                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
-                <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
+<%--                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
+                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
+                <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>--%>
             </div>
         </div>
-    </div>--%>
+    </div>
 </asp:Content>
 
