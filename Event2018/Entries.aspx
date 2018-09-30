@@ -87,8 +87,8 @@
         <div class="col-md-12">
             <div class="div-btn">
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
-<%--                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
-                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
+                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
+<%--                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
                 <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>--%>
             </div>
         </div>

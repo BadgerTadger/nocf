@@ -59,6 +59,32 @@
             </div>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-12">
+            <p></p>
+        </div>
+        <div class="col-md-12">
+            <ul class="ulNew">
+                <li class="liNew">
+                    <h3>IMPORTANT UPDATE!</h3>
+                </li>
+            </ul>
+            <p>After much consideration, and listening to your feedback, we have taken the decision to reduce the qualifying criteria to around 80% of the original specification for this year's event.</p>
+            <p>We feel that this is justified for a number of reasons, and should not 'dilute' the competition :</p>
+            <ul>
+                <li>This summer's extreme heat, meaning a number of missed classes for some</li>
+                <li>The cancellation of a number of shows earlier in the year, due to the wet weather</li>
+                <li>The earlier date for our show this year, meaning a shorter period for gaining qualifying points</li>
+            </ul>
+            <p>The revised qualifying points for each class are now as follows :</p>
+            <p>Prebeginners - 8 points<br/>
+                Beginners - 9 points<br/>
+                Novice/A/B - 16 points<br/>
+                C - 12 points
+            </p>
+            <p>The closing date remains the same - 1st October, and cannot be extended, so if you are now qualified, get your entries in quick, as the caps also remain in place for all classes!</p>
+        </div>
+    </div>
 <%--    <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
@@ -73,8 +99,8 @@
             <div class="div-btn">
                 <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
-<%--                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
-                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
+                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
+<%--                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
                 <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>--%>
             </div>
         </div>

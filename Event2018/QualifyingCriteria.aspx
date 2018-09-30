@@ -28,13 +28,35 @@
                 <li>Points can be used to qualify for the class in which they are attained only – for example, points gained for places in class ‘A’ may only be accumulated to qualify for the ‘A’ Class at the 
                     National Obedience Class Finals and may not be transferred to another class, even if the dog is currently eligible to compete at the Novice level.</li>
                 <li>
-                    Qualifying points needed for each class are as follows:
+                        Qualifying points needed for each class are as follows:
+                        <ul class="ulNew">
+                            <li class="liNew">
+                                <h3>IMPORTANT UPDATE!</h3>
+                            </li>
+                        </ul>
+                        <p>After much consideration, and listening to your feedback, we have taken the decision to reduce the qualifying criteria to around 80% of the original specification for this year's event.</p>
+                        <p>We feel that this is justified for a number of reasons, and should not 'dilute' the competition :</p>
+                        <ul>
+                            <li>This summer's extreme heat, meaning a number of missed classes for some</li>
+                            <li>The cancellation of a number of shows earlier in the year, due to the wet weather</li>
+                            <li>The earlier date for our show this year, meaning a shorter period for gaining qualifying points</li>
+                        </ul>
+                        <p>The revised qualifying points for each class are now as follows :</p>
                     <ul>
-                        <li>PreBeginner 10 points</li>
-                        <li>Beginner 12 points</li>
-                        <li>Novice/Class ‘A’/Class ‘B’ 20 points</li>
-                        <li>Class ‘C’ 15 points</li>
+                        <li>Prebeginners - 8 points</li>
+                        <li>Beginners - 9 points</li>
+                        <li>Novice/A/B - 16 points</li>
+                        <li>C - 12 points</li>
                     </ul>
+                        <p>The closing date remains the same - 1st October, and cannot be extended, so if you are now qualified, get your entries in quick, as the caps also remain in place for all classes!</p>
+                    <strike>
+                        <ul>
+                            <li>PreBeginner 10 points</li>
+                            <li>Beginner 12 points</li>
+                            <li>Novice/Class ‘A’/Class ‘B’ 20 points</li>
+                            <li>Class ‘C’ 15 points</li>
+                        </ul>
+                    </strike>
                 </li>
                 <li>A dog can be entered in 1 class only, but handlers may enter more than 1 dog, as long as each dog is suitably qualified for the class in which it is entered.</li>
                 <li>In the event that a dog accumulates sufficient points in 2 or more classes during the qualifying period, the dog should be entered in the HIGHEST class for which it is qualified.</li>
@@ -50,8 +72,8 @@
         <div class="col-md-12">
             <div class="div-btn">
                 <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
-<%--                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
-                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
+                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
+<%--                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
                 <a href="Latest2016.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>--%>
             </div>
         </div>
