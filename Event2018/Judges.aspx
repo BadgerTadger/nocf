@@ -36,8 +36,8 @@
             <div class="div-btn">
                 <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
-<%--                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
-                <a href="Latest2017.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>--%>
+                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
+                <a href="Latest2018.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
             </div>
         </div>
     </div>

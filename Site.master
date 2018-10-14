@@ -66,8 +66,8 @@
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Entries">Entries</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/QualifyingCriteria">Qualifying Criteria</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Judges">Judges</a></li>
-<%--                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/ShowDay">Show Day</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Latest2018">Latest</a></li>--%>
+<%--                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/ShowDay">Show Day</a></li>--%>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Latest2018">Latest</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
