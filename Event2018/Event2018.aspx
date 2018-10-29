@@ -85,15 +85,15 @@
             <p>The closing date remains the same - 1st October, and cannot be extended, so if you are now qualified, get your entries in quick, as the caps also remain in place for all classes!</p>
         </div>
     </div>
-<%--    <div class="row">
+    <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
-                <a href="docs/ScoreSheets2017.pdf" target="_blank" class="btn btn-fixed-width-160 btn-default">Scoresheets</a>
-                <a href="ShowReport2017.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
-                <a href="Pictures2017.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>
+                <a href="docs/2018 ScoreSheets.pdf" target="_blank" class="btn btn-fixed-width-160 btn-default">Scoresheets</a>
+                <a href="ShowReport2018.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
+                <a href="Pictures2018.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>
             </div>
         </div>
-    </div>--%>
+    </div>
     <div class="row">
         <div class="col-md-12">
             <div class="div-btn">

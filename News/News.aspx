@@ -25,9 +25,10 @@
         <div class="col-md-4">
             <h4>Latest</h4>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2018/Latest2018.aspx" >Added 'Latest' page for 2018 Event</a></li>
+                <li class="liNew"><a href="../Event2018/docs/2018 Scoresheets.pdf" target="new">2018 Scores and Results</a></li>
             </ul>
             <p>&nbsp;</p>
+            <a href="../Event2018/Latest2018.aspx" >Added 'Latest' page for 2018 Event</a>
                 <a href="../Event2018/Event2018.aspx" >Revised qualifying points for 2018 Event</a><br />
                 <a href="../Event2018/Judges.aspx" >Judges page added</a><br />
                 <a href="../Event2018/Entries.aspx" >Entries page added</a><br />
