@@ -19,16 +19,16 @@
     </div>
     <div class="row">
         <div class="col-md-4">
-<%--             <div class="div-btn">
-                <a href="docs/PreBeginner show report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 PreBeginners Show Report</a>
+             <div class="div-btn">
+                <a href="docs/NOCF PreBeginner Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2018 PreBeginners Show Report</a>
             </div>
             <div class="div-btn">
-                <a href="docs/2017 Beginner Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 Beginners Show Report</a>
+                <a href="docs/NOCF Beginner Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2018 Beginners Show Report</a>
             </div>
             <div class="div-btn">
-                <a href="docs/2017 Novice Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 Novice Show Report</a>
+                <a href="docs/Novice.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2018 Novice Show Report</a>
             </div>
-            <div class="div-btn">
+<%--            <div class="div-btn">
                 <a href="docs/2017 A Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 A Show Report</a>
             </div>--%>
             <div class="div-btn">
