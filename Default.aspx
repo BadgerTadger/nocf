@@ -11,6 +11,9 @@
                 <li data-target="#myCarousel" data-slide-to="1"></li>
                 <li data-target="#myCarousel" data-slide-to="2"></li>
                 <li data-target="#myCarousel" data-slide-to="3"></li>
+                <li data-target="#myCarousel" data-slide-to="4"></li>
+                <li data-target="#myCarousel" data-slide-to="5"></li>
+                <li data-target="#myCarousel" data-slide-to="6"></li>
             </ol>
             <!-- Carousel items -->
             <div class="carousel-inner">
@@ -33,6 +36,21 @@
                 <div class="item">
                     <div class="carousel-caption">
                         <img class="img-responsive" src="images/place_trophies_and_rosettes.jpg" alt="The Kennel Club Building" />
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="carousel-caption">
+                        <img class="img-responsive" src="images/IMG_5737.jpg" alt="The Kennel Club Building" />
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="carousel-caption">
+                        <img class="img-responsive" src="images/IMG_5738.jpg" alt="The Kennel Club Building" />
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="carousel-caption">
+                        <img class="img-responsive" src="images/IMG_5740.jpg" alt="The Kennel Club Building" />
                     </div>
                 </div>
             </div>
