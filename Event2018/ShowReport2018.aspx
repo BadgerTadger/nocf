@@ -28,9 +28,9 @@
             <div class="div-btn">
                 <a href="docs/Novice.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2018 Novice Show Report</a>
             </div>
-<%--            <div class="div-btn">
-                <a href="docs/2017 A Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2017 A Show Report</a>
-            </div>--%>
+            <div class="div-btn">
+                <a href="docs/NOCF A Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2018 A Show Report</a>
+            </div>
             <div class="div-btn">
                 <a href="docs/2018 B Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2018 B Show Report</a>
             </div>
