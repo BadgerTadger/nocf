@@ -59,6 +59,18 @@
                             </li>
                             <li><a runat="server" href="~/News/News">News</a></li>
                             <li class="dropdown">
+                                <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2019/Event2019">2019 Event</a>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+<%--                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/ShowReport2019">2019 Show Reports</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Pictures2019">2019 Pictures</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Entries">Entries</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/QualifyingCriteria">Qualifying Criteria</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Judges">Judges</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/ShowDay">Show Day</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Latest2019">Latest</a></li>--%>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
                                 <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2018/Event2018">2018 Event</a>
                                 <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/ShowReport2018">2018 Show Reports</a></li>
@@ -146,7 +158,8 @@
                 <div class="col-md-8">
                     <div class="nocf_heading">
                         <h2>National Obedience Class Finals</h2>
-                        <p>The Kennel Club Building, Stoneleigh</p>
+                        <p>New venue from 2019 - See announcement <a href="../Event2019/docs/Sports Connexions announcement.pdf" target="_blank">here</a>.</p>
+                        <p>The Sports Connexion, Leamington Road, Ryton On Dunsmore, Coventry, CV8 3FL</p>
                     </div>
                 </div>
                 <div class="fb_div">
@@ -164,7 +177,7 @@
             <footer>
                 <h4>Contact us:</h4>
                 <p><a href="mailto:nocf@btinternet.com">nocf@btinternet.com</a></p>
-                <h5><small>&copy; <%: DateTime.Now.Year %> - Sussex Software Solutions</small></h5>
+                <h5><small>&copy; <%: DateTime.Now.Year %> - Daren Cantrell</small></h5>
             </footer>
         </div>
     </form>

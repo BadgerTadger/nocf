@@ -15,8 +15,9 @@
     <div class="row">
         <div class="col-md-4">
             <h4>Events</h4>
-            <a href="../Event2018/Event2018.aspx">2018 National Obedience Class Finals - 27th October</a>
+            <a href="../Event2019/Event2019.aspx">2019 National Obedience Class Finals - 30th November</a>
             <p>&nbsp;</p>
+            <a href="../Event2018/Event2018.aspx">2018 National Obedience Class Finals - 27th October</a>
             <a href="../Event2017/Event2017.aspx">2017 National Obedience Class Finals - 9th December</a><br />
             <a href="../Event2016/Event2016.aspx">2016 National Obedience Class Finals - 10th December</a><br />
             <a href="../Event2015/Event2015.aspx">2015 National Obedience Class Finals - 14th November</a><br />
@@ -25,10 +26,11 @@
         <div class="col-md-4">
             <h4>Latest</h4>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2018/docs/2018 Scoresheets.pdf" target="new">2018 Scores and Results</a></li>
+                <li class="liNew"><a href="../Event2019/docs/Sports Connexions announcement.pdf" target="new">Announcement - New venue from 2019</a></li>
             </ul>
             <p>&nbsp;</p>
-            <a href="../Event2018/Latest2018.aspx" >Added 'Latest' page for 2018 Event</a>
+                <a href="../Event2018/docs/2018 Scoresheets.pdf" target="new">2018 Scores and Results</a>
+                <a href="../Event2018/Latest2018.aspx" >Added 'Latest' page for 2018 Event</a>
                 <a href="../Event2018/Event2018.aspx" >Revised qualifying points for 2018 Event</a><br />
                 <a href="../Event2018/Judges.aspx" >Judges page added</a><br />
                 <a href="../Event2018/Entries.aspx" >Entries page added</a><br />
@@ -44,14 +46,15 @@
         </div>
         <div class="col-md-4">
             <h4>Downloads</h4>
-            <ul class="ulNew">
+<%--             <ul class="ulNew">
                 <li class="liNew"><a href="../Event2018/docs/NOCF 2018 Running Orders.pdf" target="new">2018 Running Orders</a></li>
             </ul>
-<%--            <ul class="ulNew">
+           <ul class="ulNew">
                 <li class="liNew"><a href="../Event2017/docs/NOCF_Ring_Plan_2017.jpg" target="new">2017 Ring Plan</a></li>
             </ul>
             <a href="../Event2017/docs/NOCF 2017 Schedule and Entry Form.pdf" target="new">2017 Schedule and Entry Form (PDF)</a>--%>
             <p>&nbsp;</p>
+            <a href="../Event2018/docs/NOCF 2018 Running Orders.pdf" target="new">2018 Running Orders</a>
             <a href="../Event2018/docs/NOCF-2018-Qualifying-Info-and-Form.docx" target="new">Qualifying Points Record Form (Word Format)</a><br />
             <a href="../Event2018/docs/NOCF-2018-Qualifying-Info-and-Form.pdf" target="new">Qualifying Points Record Form (PDF Format)</a><br />
             <a href="../Event2018/docs/SCHEDULE OF NATIONAL OBEDIENCE CLASS FINALS 2018.pdf" target="new">2018 Schedule and Entry Form</a><br />

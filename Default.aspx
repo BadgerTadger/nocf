@@ -19,8 +19,7 @@
             <div class="carousel-inner">
                 <div class="active item">
                     <div class="carousel-caption">
-                        <img class="img-responsive" src="images/Kennel Club Building.jpg" alt="The Kennel Club Building" />
-                        <h5><small>Photo credit: Paul Rawlings</small></h5>
+                        <img class="img-responsive" src="images/SportsConnexion2.jpg" alt="Sports Connexion" />
                     </div>
                 </div>
                 <div class="item">
