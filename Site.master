@@ -94,21 +94,21 @@
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Latest2017">Latest</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
-                                <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2016/Event2016">2016 Event</a>
-                                <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/ShowReport2016">2016 Show Reports</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Pictures2016">2016 Pictures</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Entries">Entries</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/QualifyingCriteria">Qualifying Criteria</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Judges">Judges</a></li>
-                                    <!--<li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/ShowDay">Show Day</a></li>-->
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Latest2016">Latest</a></li>
-                                </ul>
-                            </li>
                             <li class="dropdown-submenu" role="menu">
                                 <a tabindex="-1" href="#">Previous Events</a>
                                 <ul class="dropdown-menu">
+                                    <li class="dropdown-submenu">
+                                        <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2016/Event2016">2016 Event</a>
+                                        <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/ShowReport2016">2016 Show Reports</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Pictures2016">2016 Pictures</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Entries">Entries</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/QualifyingCriteria">Qualifying Criteria</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Judges">Judges</a></li>
+                                            <!--<li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/ShowDay">Show Day</a></li>-->
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Latest2016">Latest</a></li>
+                                        </ul>
+                                    </li>
                                     <li class="dropdown-submenu">
                                         <a href="/Event2015/Event2015">2015 Event</a>
                                         <ul class="dropdown-menu">
