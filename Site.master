@@ -62,10 +62,10 @@
                                 <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2019/Event2019">2019 Event</a>
                                 <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
 <%--                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/ShowReport2019">2019 Show Reports</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Pictures2019">2019 Pictures</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Pictures2019">2019 Pictures</a></li>--%>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Entries">Entries</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/QualifyingCriteria">Qualifying Criteria</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Judges">Judges</a></li>
+<%--                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Judges">Judges</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/ShowDay">Show Day</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Latest2019">Latest</a></li>--%>
                                 </ul>
@@ -102,11 +102,7 @@
                                         <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
                                             <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/ShowReport2016">2016 Show Reports</a></li>
                                             <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Pictures2016">2016 Pictures</a></li>
-                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Entries">Entries</a></li>
-                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/QualifyingCriteria">Qualifying Criteria</a></li>
-                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Judges">Judges</a></li>
-                                            <!--<li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/ShowDay">Show Day</a></li>-->
-                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Latest2016">Latest</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/docs/Scoresheets.pdf" target="_blank">2016 Scoresheets (pdf)</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown-submenu">
@@ -114,11 +110,7 @@
                                         <ul class="dropdown-menu">
                                             <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/ShowReport2015">2015 Show Reports</a></li>
                                             <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/Pictures2015">2015 Pictures</a></li>
- <%--                                           <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/Entries">Entries</a></li>
-                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/QualifyingCriteria">Qualifying Criteria</a></li>
-                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/Judges">Judges</a></li>
-                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/ShowDay">Show Day</a></li>
-                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/Latest2015">Latest</a></li>--%>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/docs/NOCF Scores 2015.pdf" target="_blank">2015 Scoresheets (pdf)</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown-submenu">
@@ -126,6 +118,7 @@
                                         <ul class="dropdown-menu">
                                             <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2014/ShowReport2014">2014 Show Reports</a></li>
                                             <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2014/Pictures2014">2014 Pictures</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2014/docs/OCC Scores 2014.pdf" target="_blank">2014 Scoresheets (pdf)</a></li>
                                         </ul>
                                     </li>
                                 </ul>

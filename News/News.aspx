@@ -27,17 +27,9 @@
             <h4>Latest</h4>
             <ul class="ulNew">
                 <li class="liNew"><a href="../Event2019/docs/Sports Connexions announcement.pdf" target="new">Announcement - New venue from 2019</a></li>
+                <li class="liNew"><a href="../Event2018/Entries.aspx" >2019 Entries page added</a></li>
+                <li class="liNew"><a href="../Event2018/QualifyingCriteria.aspx" >2019 Qualifying Criteria page added</a></li>
             </ul>
-            <p>&nbsp;</p>
-                <a href="../Event2018/docs/2018 Scoresheets.pdf" target="new">2018 Scores and Results</a>
-                <a href="../Event2018/Latest2018.aspx" >Added 'Latest' page for 2018 Event</a>
-                <a href="../Event2018/Event2018.aspx" >Revised qualifying points for 2018 Event</a><br />
-                <a href="../Event2018/Judges.aspx" >Judges page added</a><br />
-                <a href="../Event2018/Entries.aspx" >Entries page added</a><br />
-                <a href="../Event2018/QualifyingCriteria.aspx" >Qualifying Criteria page added</a><br />
-                <a href="../Event2018/Entries.aspx" >New documents available for download</a><br />
-                <a href="../Event2017/Event2017.aspx">T Shirts for sale - £12 each</a><br />
-            <p>&nbsp;</p>
             <!--<a href="../Event2015/Event2015.aspx">Scores are now available from the 2015 event</a><br />
             <a href="../Event2015/docs/NOCF Running Orders 2015.pdf" target="new">2015 Running Orders</a><br />
             <a href="../Event2015/docs/2015 Schedule and Entry Form.pdf" target="new">2015 Schedule and Entry Form</a><br />-->
@@ -46,25 +38,12 @@
         </div>
         <div class="col-md-4">
             <h4>Downloads</h4>
-<%--             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2018/docs/NOCF 2018 Running Orders.pdf" target="new">2018 Running Orders</a></li>
+            <ul class="ulNew">
+                <li class="liNew"><a href="../Event2019/docs/NOCF-2019-Qualifying-Info-and-Form.docx" target="new">2019 Qualifying Info and Form (Word)</a></li>
+                <li class="liNew"><a href="../Event2019/docs/NOCF-2019-Qualifying-Info-and-Form.pdf" target="new">2019 Qualifying Info and Form (PDF)</a></li>
             </ul>
-           <ul class="ulNew">
-                <li class="liNew"><a href="../Event2017/docs/NOCF_Ring_Plan_2017.jpg" target="new">2017 Ring Plan</a></li>
-            </ul>
-            <a href="../Event2017/docs/NOCF 2017 Schedule and Entry Form.pdf" target="new">2017 Schedule and Entry Form (PDF)</a>--%>
             <p>&nbsp;</p>
-            <a href="../Event2018/docs/NOCF 2018 Running Orders.pdf" target="new">2018 Running Orders</a>
-            <a href="../Event2018/docs/NOCF-2018-Qualifying-Info-and-Form.docx" target="new">Qualifying Points Record Form (Word Format)</a><br />
-            <a href="../Event2018/docs/NOCF-2018-Qualifying-Info-and-Form.pdf" target="new">Qualifying Points Record Form (PDF Format)</a><br />
-            <a href="../Event2018/docs/SCHEDULE OF NATIONAL OBEDIENCE CLASS FINALS 2018.pdf" target="new">2018 Schedule and Entry Form</a><br />
-            <a href="../Event2017/docs/ScoreSheets2017.pdf" target="new">2017 Scores and Results</a><br />
-<%--            <a href="../Event2017/docs/NOCF Running Orders 2017.pdf" target="new">2017 Running Orders</a><br />--%>
-            <a href="../Event2016/docs/NOCF-2016-Scoresheets.pdf" target="_new">2016 Scores and Results</a><br />
-<%--            <a href="../Event2016/docs/NOCF Running Orders 2016.pdf" target="new">2016 Running Orders</a><br />--%>
-            <a href="../Event2015/docs/NOCF Scores 2015.pdf" target="_new">2015 Scores and Results</a><br />
-<%--            <a href="../Event2015/docs/NOCF Running Orders 2015.pdf" target="new">2015 Running Orders</a><br />--%>
-            <a href="../Event2014/docs/OCC Scores 2014.pdf" target="_new">2014 Scores and Results</a><br />
+            <a href="../Event2018/docs/2018 Scoresheets.pdf" target="new">2018 Scores and Results</a>
         </div>
     </div>
 </asp:Content>
