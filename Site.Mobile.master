@@ -1,24 +1,178 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.Mobile.master.cs" Inherits="Site_Mobile" %>
 
-<%@ Register Src="~/ViewSwitcher.ascx" TagPrefix="friendlyUrls" TagName="ViewSwitcher" %>
-
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head id="Head1" runat="server">
-    <meta name="viewport" content="width=device-width" />
-    <title></title>
-    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - National Obedience Class Finals</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 </head>
 <body>
-    <form id="form1" runat="server">
-    <div>
-        <h1>Mobile Master Page</h1>
-        <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
-        <section class="content-wrapper main-content clear-fix">
-            <asp:ContentPlaceHolder runat="server" ID="MainContent" />
-        </section>
-        <friendlyUrls:ViewSwitcher ID="ViewSwitcher1" runat="server" />
-    </div>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+        <div class="navbar navbar-default navbar-static-top">
+            <nav class="navbar navbar-default">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <!--<a class="navbar-brand" runat="server" href="~/">National Obedience Class Finals</a>-->
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li><a runat="server" href="~/">Home</a></li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" runat="server" data-target="#" href="~/About/About">About</a>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/About/Concept">The Concept</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/About/History">History</a></li>
+                                </ul>
+                            </li>
+                            <li><a runat="server" href="~/News/News">News</a></li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2019/Event2019">2019 Event</a>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+<%--                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/ShowReport2019">2019 Show Reports</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Pictures2019">2019 Pictures</a></li>--%>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Entries">Entries</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/QualifyingCriteria">Qualifying Criteria</a></li>
+<%--                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Judges">Judges</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/ShowDay">Show Day</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Latest2019">Latest</a></li>--%>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2018/Event2018">2018 Event</a>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/ShowReport2018">2018 Show Reports</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Pictures2018">2018 Pictures</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Entries">Entries</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/QualifyingCriteria">Qualifying Criteria</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Judges">Judges</a></li>
+<%--                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/ShowDay">Show Day</a></li>--%>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2018/Latest2018">Latest</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2017/Event2017">2017 Event</a>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/ShowReport2017">2017 Show Reports</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Pictures2017">2017 Pictures</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Entries">Entries</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/QualifyingCriteria">Qualifying Criteria</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Judges">Judges</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/ShowDay">Show Day</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2017/Latest2017">Latest</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu" role="menu">
+                                <a tabindex="-1" href="#">Previous Events</a>
+                                <ul class="dropdown-menu">
+                                    <li class="dropdown-submenu">
+                                        <a class="dropdown-toggle" runat="server" data-target="#" href="~/Event2016/Event2016">2016 Event</a>
+                                        <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/ShowReport2016">2016 Show Reports</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/Pictures2016">2016 Pictures</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2016/docs/Scoresheets.pdf" target="_blank">2016 Scoresheets (pdf)</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-submenu">
+                                        <a href="/Event2015/Event2015">2015 Event</a>
+                                        <ul class="dropdown-menu">
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/ShowReport2015">2015 Show Reports</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/Pictures2015">2015 Pictures</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2015/docs/NOCF Scores 2015.pdf" target="_blank">2015 Scoresheets (pdf)</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-submenu">
+                                        <a href="/Event2014/Event2014">2014 Event</a>
+                                        <ul class="dropdown-menu">
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2014/ShowReport2014">2014 Show Reports</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2014/Pictures2014">2014 Pictures</a></li>
+                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2014/docs/OCC Scores 2014.pdf" target="_blank">2014 Scoresheets (pdf)</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a runat="server" href="~/Sponsors/Sponsors">Sponsors</a></li>
+                            <li><a runat="server" href="~/Contact/Contact">Contact</a></li>
+                        </ul>
+                        <%--                        <asp:LoginView runat="server" ViewStateMode="Disabled">
+                            <AnonymousTemplate>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Account/Register">Register</a></li>
+                                    <li><a runat="server" href="~/Account/Login">Log in</a></li>
+                                </ul>
+                            </AnonymousTemplate>
+                            <LoggedInTemplate>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a runat="server" href="~/Account/Manage" title="Manage your account">Hello, <%: Context.User.Identity.GetUserName()  %>!</a></li>
+                                    <li>
+                                        <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                    </li>
+                                </ul>
+                            </LoggedInTemplate>
+                        </asp:LoginView>--%>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="container body-content">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="nocf_heading">
+                        <h2>National Obedience Class Finals</h2>
+                        <p>New venue from 2019 - See announcement <a href="../Event2019/docs/Sports Connexions announcement.pdf" target="_blank">here</a>.</p>
+                        <p>The Sports Connexion, Leamington Road, Ryton On Dunsmore, Coventry, CV8 3FL</p>
+                    </div>
+                </div>
+                <div class="fb_div">
+                    <a href="https://www.facebook.com/nocfUK" target="_blank">
+                        <img src="../images/Facebook.png" alt="social_facebook_box_blue" />
+                    </a>
+                    <span>Follow us on Facebook</span>
+                </div>
+            </div>
+            <div class="main-content">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <hr />
+            <footer>
+                <h4>Contact us:</h4>
+                <p><a href="mailto:nocf@btinternet.com">nocf@btinternet.com</a></p>
+                <h5><small>&copy; <%: DateTime.Now.Year %> - Daren Cantrell</small></h5>
+            </footer>
+        </div>
     </form>
 </body>
 </html>
