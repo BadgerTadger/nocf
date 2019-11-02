@@ -65,9 +65,8 @@
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Pictures2019">2019 Pictures</a></li>--%>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Entries">Entries</a></li>
                                     <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/QualifyingCriteria">Qualifying Criteria</a></li>
-<%--                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Judges">Judges</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/ShowDay">Show Day</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Latest2019">Latest</a></li>--%>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Judges">Judges</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/Event2019/Latest2019">Latest</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">

@@ -26,10 +26,10 @@
         <div class="col-md-4">
             <h4>Latest</h4>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2019/docs/Sports Connexions announcement.pdf" target="new">Announcement - New venue from 2019</a></li>
-                <li class="liNew"><a href="../Event2018/Entries.aspx" >2019 Entries page added</a></li>
-                <li class="liNew"><a href="../Event2018/QualifyingCriteria.aspx" >2019 Qualifying Criteria page added</a></li>
+                <li class="liNew"><a href="../Event2019/Latest2019.aspx" >2019 'Latest' page Updated</a></li>
             </ul>
+            <p>&nbsp;</p>
+            <a href="../Event2019/docs/Sports Connexions announcement.pdf" target="new">Announcement - New venue from 2019</a><br />
             <!--<a href="../Event2015/Event2015.aspx">Scores are now available from the 2015 event</a><br />
             <a href="../Event2015/docs/NOCF Running Orders 2015.pdf" target="new">2015 Running Orders</a><br />
             <a href="../Event2015/docs/2015 Schedule and Entry Form.pdf" target="new">2015 Schedule and Entry Form</a><br />-->
@@ -39,8 +39,9 @@
         <div class="col-md-4">
             <h4>Downloads</h4>
             <ul class="ulNew">
-                <li class="liNew"><a href="../Event2019/docs/NOCF-2019-Qualifying-Info-and-Form.docx" target="new">2019 Qualifying Info and Form (Word)</a></li>
-                <li class="liNew"><a href="../Event2019/docs/NOCF-2019-Qualifying-Info-and-Form.pdf" target="new">2019 Qualifying Info and Form (PDF)</a></li>
+                <li class="liNew"><a href="../Event2019/docs/Ring Plan NOCF 2019.jpg" target="new">2019 Provisional Ring Plan</a></li>
+                <li class="liNew"><a href="../Event2019/docs/NOCF 2019 Running Orders.pdf" target="new">2019 Running Orders</a></li>
+                <li class="liNew"></li>
             </ul>
             <p>&nbsp;</p>
             <a href="../Event2018/docs/2018 Scoresheets.pdf" target="new">2018 Scores and Results</a>

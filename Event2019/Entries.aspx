@@ -69,9 +69,9 @@
                     As soon as possible after closing date, verified competitors will be notified by email by receiving confirmation of their class, 
                     ring number, full class running order, a full ring plan of all classes and any other important information.  
                 </p>
-<%--                <p>
+                <p>
                     <a href="docs/SCHEDULE OF NATIONAL OBEDIENCE CLASS FINALS 2019.pdf" target="new">2019 Schedule and Entry Form</a>
-                </p>--%>
+                </p>
             </div>
         </div>
     </div>
@@ -87,9 +87,8 @@
         <div class="col-md-12">
             <div class="div-btn">
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
-<%--                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
-                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
-                <a href="Latest2018.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>--%>
+                <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
+                <a href="Latest2019.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>
             </div>
         </div>
     </div>
