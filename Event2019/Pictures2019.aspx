@@ -132,7 +132,7 @@
             </p>
             <div class="div-btn">
                 <a href="https://www.facebook.com/media/set/?set=oa.2607220922678050&type=3 " target="_new" class="btn btn-fixed-width-180 btn-default">ObedienceUK</a>
-                <p>NB you will need to be a member of the ObUK Facebook grouo to view these</p>
+                <p>NB you will need to be a member of the ObUK Facebook group to view these</p>
             </div>
             <div class="div-btn">
                 <a href="https://www.facebook.com/pg/Richard.Furtography/photos/?tab=album&album_id=3549807358377766" target="_new" class="btn btn-fixed-width-180 btn-default">Richard Moss's photos</a>
