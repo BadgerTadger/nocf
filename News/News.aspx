@@ -26,6 +26,7 @@
         <div class="col-md-4">
             <h4>Latest</h4>
             <ul class="ulNew">
+                <li class="liNew"><a href="../Event2019/Pictures2019.aspx" >2019 'Pictures' page Added</a></li>
                 <li class="liNew"><a href="../Event2019/Latest2019.aspx" >2019 'Latest' page Updated</a></li>
             </ul>
             <p>&nbsp;</p>
