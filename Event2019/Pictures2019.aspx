@@ -58,6 +58,30 @@
             <div class="container">
                 <ul class="row">
                     <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Prebeginner 1 and 2.jpg" alt="1st and 2nd Prebeginner" />
+                    </li>
+<%--                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Beginner Champion.jpg" alt="Beginner Class Champion" />
+                    </li>
+                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Novice Champion.jpg" alt="Novice Class Champion" />
+                    </li>--%>
+                </ul>
+<%--                <ul class="row">
+                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Class A Champion.jpg" alt="Class A Champion" />
+                    </li>
+                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Class B Champion.jpg" alt="Class B Champion" />
+                    </li>
+                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
+                        <img class="img-responsive" src="images/Class C Champion.jpg" alt="Class C Champion" />
+                    </li>
+                </ul>--%>
+            </div>
+            <div class="container">
+                <ul class="row">
+                    <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
                         <img class="img-responsive" src="images/Prebeginner Places.jpg" alt="Prebeginner Places" />
                     </li>
                     <li class="col-lg-3 col-md-3 col-sm-3 col-xs-4 gallery">
