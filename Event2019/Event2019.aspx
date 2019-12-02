@@ -95,20 +95,19 @@
     <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
-<%--                <a href="docs/2018 ScoreSheets.pdf" target="_blank" class="btn btn-fixed-width-160 btn-default">Scoresheets</a>
-                <a href="ShowReport2018.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
-                <a href="Pictures2018.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>--%>
+                <a href="docs/2019 Completed Scoresheets.pdf" target="_blank" class="btn btn-fixed-width-160 btn-default">Scoresheets</a>
+                <a href="ShowReport2019.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
+                <a href="Pictures2019.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>
             </div>
         </div>
     </div>
     <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
-<%--                <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
+                <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
                 <a href="QualifyingCriteria.aspx" class="btn btn-fixed-width-160 btn-default">Qualifying Criteria</a>
                 <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
-                <a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>
-                <a href="Latest2018.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>--%>
+                <!--<a href="ShowDay.aspx" class="btn btn-fixed-width-160 btn-default">Show Day</a>-->
             </div>
         </div>
     </div>

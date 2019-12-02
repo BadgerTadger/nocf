@@ -49,6 +49,15 @@
     <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
+                <a href="docs/2019 Completed Scoresheets.pdf" target="_blank" class="btn btn-fixed-width-160 btn-default">Scoresheets</a>
+                <a href="ShowReport2019.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
+                <a href="Pictures2019.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="div-btn">
                 <a href="Entries.aspx" class="btn btn-fixed-width-160 btn-default">Entries</a>
                 <a href="Judges.aspx" class="btn btn-fixed-width-160 btn-default">Judges</a>
                 <a href="Latest2019.aspx" class="btn btn-fixed-width-160 btn-default">Latest</a>

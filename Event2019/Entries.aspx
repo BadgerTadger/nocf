@@ -75,14 +75,15 @@
             </div>
         </div>
     </div>
-<%--    <div class="row">
+    <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
-                <a href="ShowReport2016.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
-                <a href="Pictures2016.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>
+                <a href="docs/2019 Completed Scoresheets.pdf" target="_blank" class="btn btn-fixed-width-160 btn-default">Scoresheets</a>
+                <a href="ShowReport2019.aspx" class="btn btn-fixed-width-160 btn-default">Show Reports</a>
+                <a href="Pictures2019.aspx" class="btn btn-fixed-width-160 btn-default">Pictures</a>
             </div>
         </div>
-    </div>--%>
+    </div>
     <div class="row">
         <div class="col-md-12">
             <div class="div-btn">
