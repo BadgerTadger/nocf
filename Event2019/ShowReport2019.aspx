@@ -21,13 +21,13 @@
         <div class="col-md-4">
 <%--             <div class="div-btn">
                 <a href="docs/NOCF PreBeginner Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 PreBeginners Show Report</a>
-            </div>
-            <div class="div-btn">
-                <a href="docs/NOCF Beginner Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 Beginners Show Report</a>
-            </div>
-            <div class="div-btn">
-                <a href="docs/Novice.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 Novice Show Report</a>
             </div>--%>
+            <div class="div-btn">
+                <a href="docs/Beginner Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 Beginners Show Report</a>
+            </div>
+            <div class="div-btn">
+                <a href="docs/Novice Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 Novice Show Report</a>
+            </div>
             <div class="div-btn">
                 <a href="docs/Class A Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 A Show Report</a>
             </div>
