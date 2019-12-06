@@ -19,9 +19,9 @@
     </div>
     <div class="row">
         <div class="col-md-4">
-<%--             <div class="div-btn">
-                <a href="docs/NOCF PreBeginner Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 PreBeginners Show Report</a>
-            </div>--%>
+             <div class="div-btn">
+                <a href="docs/Prebeginner Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 PreBeginners Show Report</a>
+            </div>
             <div class="div-btn">
                 <a href="docs/Beginner Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 Beginners Show Report</a>
             </div>
@@ -31,9 +31,9 @@
             <div class="div-btn">
                 <a href="docs/Class A Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 A Show Report</a>
             </div>
-<%--            <div class="div-btn">
-                <a href="docs/2019 B Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 B Show Report</a>
-            </div>--%>
+            <div class="div-btn">
+                <a href="docs/Class B show report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 B Show Report</a>
+            </div>
             <div class="div-btn">
                 <a href="docs/Class C Show Report.pdf" target="_new" class="btn btn-fixed-width-250 btn-default">2019 C Show Report</a>
             </div>
